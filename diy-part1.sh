@@ -16,5 +16,5 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-#echo 'src-git aliyundrive-webdav https://github.com/messense/aliyundrive-webdav/trunk/openwrt/aliyundrive-webdav' >>feeds.conf.default
-#echo 'src-git aliyundrive-webdav https://github.com/messense/aliyundrive-webdav/trunk/openwrt/luci-app-aliyundrive-webdav' >>feeds.conf.default
+#echo 'src-git aliyundrive-webdav https://github.com/messense/aliyundrive-webdav/tree/openwrt/aliyundrive-webdav' >>feeds.conf.default
+#echo 'src-git aliyundrive-webdav https://github.com/messense/aliyundrive-webdav/tree/openwrt/luci-app-aliyundrive-webdav' >>feeds.conf.default
