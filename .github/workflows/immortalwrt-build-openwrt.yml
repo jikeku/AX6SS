@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 237 Build OpenWrt
+name: immortalwrt
 
 on:
   repository_dispatch:
