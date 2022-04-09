@@ -1,5 +1,14 @@
 name: 安装
 
+on:
+  push:
+    branches: 
+      - master
+  # schedule:
+  #   - cron: 0 20 * * *
+  release:
+    types: [published]
+
 jobs:
   build:
     runs-on: ubuntu-20.04
